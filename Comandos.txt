@@ -1,0 +1,2 @@
+$ npm i typeorm -g
+$ typeorm init --name quicktypeorm --database pg
